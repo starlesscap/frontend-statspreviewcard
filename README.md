@@ -42,7 +42,7 @@ Users should be able to:
 ### Useful resources
 
 - [Background Blend Mode](https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode) 
-- [Stackoverflow: Keep Text Size Consistent](https://stackoverflow.com/questions/24469375/keeping-text-size-the-same-on-zooming) - This helped to learn 'vh' and 'vw' units.
+- [Stackoverflow: Keep Text Size Consistent](https://stackoverflow.com/questions/24469375/keeping-text-size-the-same-on-zooming) 
 
 ## Author
 
